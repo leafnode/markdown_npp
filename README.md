@@ -29,7 +29,7 @@ Installation instructions (taken from Notepad++ Web site [1]):
 ## Copyright and License
 
 Copyright (c) 2010 Thomas Smits
-Modified in 2011 by Leszek Krupiñski
+Modified in 2011 by Leszek KrupiÅ„ski
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
